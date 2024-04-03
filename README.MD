@@ -1,4 +1,4 @@
-# Project Name: AzureBingAI
+# AzureBingAI
 
 ## Description
 AzureBingAI is an open-source project that integrates Azure OpenAI with the Bing Search API to provide a powerful and efficient search and response system. This system is capable of processing user input, performing web searches, and generating human-like responses in Chinese based on content extracted from the web in English.
